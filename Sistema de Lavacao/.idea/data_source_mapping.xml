@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/prj-sistema-lavacao-javafx-parte1/src/main/resources/banco-de-dados/script_sistema_vendas_01.sql" value="43ad6c0c-f3e1-4939-b702-7e8c3664048a" />
+    <file url="file://$PROJECT_DIR$/prj-sistema-lavacao-javafx-parte1/src/main/resources/banco-de-dados/script_sistema_vendas_02.sql" value="43ad6c0c-f3e1-4939-b702-7e8c3664048a" />
+  </component>
+</project>
